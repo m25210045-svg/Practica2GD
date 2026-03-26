@@ -1,0 +1,29 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Caos en sistemas biológicos
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Vincent Alejandro
+    family-names: Villela Salinas
+    email: M25210045@tectijuana.edu.mx
+    affiliation: Instituto Tecnológico de Tijuana
+repository-code: 'https://github.com/m25210045-svg/Practica2GD'
+abstract: >-
+  Comparar métodos de diferencias finitas para solucionar
+  sistemas de ODEs no lineales de primer orden que exhiben
+  diferentes conjuntos compactos invariantes para diferentes
+  valores en sus parámetros y/o condiciones iniciales.
+keywords:
+  - Sistema no lineal
+  - Caos
+  - Estabilidad
+  - Simulaciones numéricas
+  - Cáncer e inmunoterapia
+license: BSD-2-Clause-FreeBSD
+version: '1.0'
+date-released: '2026-03-26'
