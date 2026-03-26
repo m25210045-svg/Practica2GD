@@ -38,7 +38,8 @@ Palabras clave: Caos; Conjuntos Compactos Invariantes; Condiciones de Estabilida
 2. Utilizar la función jacobian para obtener la matriz jacobiana al ingresar como parámetros las funciones y variables del sistema.
 3. Desarrollar funciones para definir los diferentes casos posibles en el sistema al variar el parámetro correspondiente a la fracción de células patológia eliminadas por las células sanas, así como las condiciones iniciales de X, Y y Z, definir los métodos numéricos (Euer, Heun y Runge-Kutta) a comparar, graficar la respuesta por parte del sistema con cada método numérico y gráficar la diferencia entre cada método numérico.
 4. Obtener las gráficas del sistema con los 5 casos a estudiar, siendo éstos un atractor caótico, una órbita periódica, un cíclo límite interno, un cíclo límite externo y una trayectoria que eventualmente converge hacia un punto de equilibrio.
-5. Diseñar un diagrama biológico sobre la dinámica del sistema y la interacción entre sus variables con las figuras de https://bioart.niaid.nih.gov/ o https://www.biorender.com/.
+5. Para los 5 casos anteriormente descritos se asigno una condición de estabilidad, de modo que al simular la aplicación del tratamiento la trayectoria se dirija hacia el cuarto punto de equilibrio de cada caso.
+6. Diseñar un diagrama biológico sobre la dinámica del sistema y la interacción entre sus variables con las figuras de https://bioart.niaid.nih.gov/ o https://www.biorender.com/.
 
 ## Lista de archivos incluidos en el repositorio
 1. Cuaderno computacional de MATLAB [.mlx].
